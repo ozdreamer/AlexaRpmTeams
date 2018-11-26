@@ -1,0 +1,11 @@
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\bin\Debug\netcoreapp2.1\AlexaRpmTeams.deps.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\bin\Debug\netcoreapp2.1\AlexaRpmTeams.runtimeconfig.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\bin\Debug\netcoreapp2.1\AlexaRpmTeams.runtimeconfig.dev.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\bin\Debug\netcoreapp2.1\AlexaRpmTeams.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.csprojAssemblyReference.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.csproj.CoreCompileInputs.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.AssemblyInfoInputs.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.AssemblyInfo.cs
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\bin\Debug\netcoreapp2.1\AlexaRpmTeams.pdb
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams\obj\Debug\netcoreapp2.1\AlexaRpmTeams.pdb

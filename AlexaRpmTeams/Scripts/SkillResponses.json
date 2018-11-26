@@ -1,0 +1,41 @@
+{
+  "IntentResponses": [
+    {
+      "Intent": "IntentTeamCount",
+      "Response": "Your company has eight teams."
+    },
+    {
+      "Intent": "IntentTeamList",
+      "Response": "Simulation, Scheduling, Reserver, Xeras, Design, Enterprise, A M T, Min Vu."
+    },
+    {
+      "Intent": "IntentPerson",
+      "CustomResponses": [
+        {
+          "Team": "Simulation",
+          "Role": "Product Manager",
+          "Person": "Adam Price"
+        },
+        {
+          "Team": "Simulation",
+          "Role": "Project Manager",
+          "Person": "Andre Corea de Sa"
+        }
+      ]
+    },
+    {
+      "Intent": "AMAZON.StopIntent",
+      "Response": "Good bye Kamrul, I am now stopping."
+    },
+    {
+      "Intent": "AMAZON.CancelIntent",
+      "Response": "Good bye Kamrul, I am now cancelling my operations."
+    }
+  ],
+  "LaunchResponse": "Hi Kamrul, I am your friend Alexa.",
+  "SessionEndedResponse": "Good bye Kamrul, you have a nice day.",
+  "RepromptResponse": "Sorry Kamrul, I didn't hear from you. Do you have any more question?",
+  "InvalidResponse": "Sorry Kamrul, I couldn't find the answer for it.",
+  "StopIntent": "AMAZON.StopIntent",
+  "CancelIntent": "AMAZON.CancelIntent"
+}

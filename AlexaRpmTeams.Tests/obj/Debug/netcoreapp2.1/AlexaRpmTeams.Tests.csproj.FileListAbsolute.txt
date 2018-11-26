@@ -1,0 +1,17 @@
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.deps.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.runtimeconfig.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.runtimeconfig.dev.json
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.pdb
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\bin\Debug\netcoreapp2.1\AlexaRpmTeams.pdb
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.csprojAssemblyReference.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.csproj.CoreCompileInputs.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.AssemblyInfoInputs.cache
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.AssemblyInfo.cs
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.csproj.CopyComplete
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.dll
+C:\Users\khasan\Documents\Visual Studio 2017\Projects\AlexaRpmTeams\AlexaRpmTeams.Tests\obj\Debug\netcoreapp2.1\AlexaRpmTeams.Tests.pdb

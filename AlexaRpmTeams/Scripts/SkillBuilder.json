@@ -1,0 +1,147 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "teams",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "bye alexa",
+            "thanks alexa",
+            "ok thank you",
+            "bye bye",
+            "terminate",
+            "good bye",
+            "thank you",
+            "finish",
+            "stop"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "IntentTeamCount",
+          "slots": [],
+          "samples": [
+            "how many teams in rpm",
+            "how many teams",
+            "how many teams are there in rpm",
+            "what is the number of teams in rpm"
+          ]
+        },
+        {
+          "name": "IntentTeamList",
+          "slots": [],
+          "samples": [
+            "what are the teams",
+            "what teams are there in rpm",
+            "tell me the names of the teams",
+            "list the team names"
+          ]
+        },
+        {
+          "name": "IntentPerson",
+          "slots": [
+            {
+              "name": "Role",
+              "type": "Roles"
+            },
+            {
+              "name": "Team",
+              "type": "Teams"
+            }
+          ],
+          "samples": [
+            "who is the {Role} of {Team}",
+            "who is the {Role} of {Team} team",
+            "who is {Role} of {Team}",
+            "{Role} of {Team}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "Teams",
+          "values": [
+            {
+              "name": {
+                "value": "Simulation",
+                "synonyms": [
+                  "Haulsim",
+                  "Simulate"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Scheduling"
+              }
+            },
+            {
+              "name": {
+                "value": "Xeras"
+              }
+            },
+            {
+              "name": {
+                "value": "Reserver"
+              }
+            },
+            {
+              "name": {
+                "value": "Design"
+              }
+            },
+            {
+              "name": {
+                "value": "Enterprise",
+                "synonyms": [
+                  "EPF"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "A M T"
+              }
+            },
+            {
+              "name": {
+                "value": "Min Vu"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Roles",
+          "values": [
+            {
+              "name": {
+                "value": "Project Manager"
+              }
+            },
+            {
+              "name": {
+                "value": "Product Manager"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
